@@ -1,0 +1,15 @@
+🚀 Advanced Sequelize query builder with pagination, filtering, sorting, and performance monitoring. Type-safe, easy-to-use, and production-ready.
+
+Features:
+- 🔍 Advanced Filtering with complex operators
+- 📄 Smart Pagination (page-based and offset-based)
+- 🔄 Flexible Sorting with multi-column support
+- 🔗 Easy Joins for related data
+- ⚡ Performance Monitoring built-in
+- 🛡️ Full TypeScript support
+- 🎯 Custom Error Handling
+- 🚀 Production Ready
+
+Perfect for Node.js applications using Sequelize ORM with MySQL, PostgreSQL, SQLite, or MariaDB.
+
+Keywords: sequelize, query-builder, pagination, filtering, sorting, orm, database, sql, typescript, nodejs, performance, monitoring, joins, crud, api, backend, express, mysql, postgresql, sqlite, mariadb
