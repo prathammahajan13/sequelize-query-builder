@@ -10,7 +10,6 @@
     "LICENSE"
   ],
   "scripts": {
-    "prepare": "tsc",
     "build": "npm run build"
   },
   "keywords": [
