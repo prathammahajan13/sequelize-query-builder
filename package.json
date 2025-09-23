@@ -1,5 +1,5 @@
 {
-  "name": "@sequelize-query-builder",
+  "name": "@prathammahajan/sequelize-query-builder",
   "version": "1.0.1",
   "description": "🚀 Advanced Sequelize query builder with pagination, filtering, sorting, and performance monitoring. Type-safe, easy-to-use, and production-ready.",
   "main": "dist/index.js",
@@ -38,7 +38,8 @@
   "author": {
     "name": "Pratham Mahajan",
     "email": "mahajanpratham88@gmail.com",
-    "url": "https://github.com/prathammahajan13"
+    "url": "https://github.com/prathammahajan13",
+    "buyMeACoffee": "https://buymeacoffee.com/mahajanprae"
   },
   "license": "MIT",
   "engines": {
@@ -67,5 +68,9 @@
   "bugs": {
     "url": "https://github.com/prathammahajan13/sequelize-query-builder/issues"
   },
-  "homepage": "https://github.com/prathammahajan13/sequelize-query-builder#readme"
+  "homepage": "https://github.com/prathammahajan13/sequelize-query-builder#readme",
+  "funding": {
+    "type": "individual",
+    "url": "https://buymeacoffee.com/mahajanprae"
+  }
 }
