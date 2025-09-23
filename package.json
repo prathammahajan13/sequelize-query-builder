@@ -1,6 +1,6 @@
 {
   "name": "@prathammahajan/sequelize-query-builder",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "🚀 Advanced Sequelize query builder with pagination, filtering, sorting, and performance monitoring. Type-safe, easy-to-use, and production-ready.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
