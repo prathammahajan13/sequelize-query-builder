@@ -2,7 +2,7 @@
 
 **Powerful, type-safe query builder for Sequelize with pagination, filtering, sorting, and performance monitoring.**
 
-[![npm version](https://badge.fury.io/js/@prathammahajan-sequelize-query-builder.svg)](https://badge.fury.io/js/@prathammahajan%2Fsequelize-query-builder)
+[![npm version](https://badge.fury.io/js/@prathammahajan%2Fsequelize-query-builder.svg)](https://badge.fury.io/js/@prathammahajan%2Fsequelize-query-builder)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue.svg)](https://www.typescriptlang.org/)
 

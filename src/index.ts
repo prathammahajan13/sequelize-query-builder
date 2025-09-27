@@ -115,15 +115,15 @@ export const defaultConfig: QueryConfig = {
 /**
  * Version information
  */
-export const version = '1.0.0';
+export const version = '1.0.3';
 
 /**
  * Package information
  */
 export const packageInfo = {
   name: '@prathammahajan/sequelize-query-builder',
-  version: '1.0.0',
+  version: '1.0.3',
   description: 'Advanced Sequelize query builder with pagination, filtering, and sorting',
-  author: 'Your Organization',
+  author: 'Pratham Mahajan',
   license: 'MIT',
 };

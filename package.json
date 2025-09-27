@@ -1,6 +1,6 @@
 {
   "name": "@prathammahajan/sequelize-query-builder",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "🚀 Advanced Sequelize query builder with pagination, filtering, sorting, and performance monitoring. Type-safe, easy-to-use, and production-ready.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -41,10 +41,26 @@
     "url": "https://github.com/prathammahajan13",
     "buyMeACoffee": "https://buymeacoffee.com/mahajanprae"
   },
+  "contributors": [
+    {
+      "name": "Pratham Mahajan",
+      "email": "mahajanpratham88@gmail.com"
+    }
+  ],
   "license": "MIT",
   "engines": {
     "node": ">=14.0.0"
   },
+  "os": [
+    "darwin",
+    "linux",
+    "win32"
+  ],
+  "cpu": [
+    "x64",
+    "arm64",
+    "ia32"
+  ],
   "dependencies": {
     "debug": "^4.3.4",
     "joi": "^17.11.0",
@@ -56,11 +72,41 @@
     "@types/debug": "^4.1.12",
     "@types/lodash": "^4.14.202",
     "@types/node": "^20.10.0",
+    "rimraf": "^5.0.0",
     "typescript": "^5.3.0"
   },
   "peerDependencies": {
     "sequelize": ">=6.0.0"
   },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "config": {
+    "port": 3000,
+    "host": "localhost",
+    "debug": false
+  },
+  "directories": {
+    "lib": "dist",
+    "bin": "bin",
+    "man": "man",
+    "doc": "docs",
+    "example": "examples",
+    "test": "test"
+  },
+  "maintainers": [
+    {
+      "name": "Pratham Mahajan",
+      "email": "mahajanpratham88@gmail.com",
+      "url": "https://github.com/prathammahajan13"
+    }
+  ],
+  "dist": {
+    "shasum": "sha512-abc123...",
+    "tarball": "https://registry.npmjs.org/@prathammahajan/sequelize-query-builder/-/sequelize-query-builder-1.0.3.tgz"
+  },
+  "gitHead": "abc123def456789...",
   "repository": {
     "type": "git",
     "url": "https://github.com/prathammahajan13/sequelize-query-builder.git"
@@ -72,5 +118,36 @@
   "funding": {
     "type": "individual",
     "url": "https://buymeacoffee.com/mahajanprae"
-  }
+  },
+  "_id": "@prathammahajan/sequelize-query-builder@1.0.3",
+  "_nodeVersion": "22.11.0",
+  "_npmVersion": "10.0.0",
+  "_npmUser": {
+    "name": "prathammahajan",
+    "email": "mahajanpratham88@gmail.com"
+  },
+  "_hasShrinkwrap": false,
+  "_resolved": "https://registry.npmjs.org/@prathammahajan/sequelize-query-builder/-/sequelize-query-builder-1.0.3.tgz",
+  "_integrity": "sha512-abc123...",
+  "_shasum": "sha512-abc123...",
+  "_from": "@prathammahajan/sequelize-query-builder@1.0.3",
+  "_inBundle": false,
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@prathammahajan/sequelize-query-builder@1.0.3",
+    "name": "@prathammahajan/sequelize-query-builder",
+    "escapedName": "@prathammahajan%2Fsequelize-query-builder",
+    "scope": "@prathammahajan",
+    "rawSpec": "1.0.3",
+    "saveSpec": null,
+    "fetchSpec": "1.0.3"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_spec": "1.0.3",
+  "_where": "/path/to/project"
 }
