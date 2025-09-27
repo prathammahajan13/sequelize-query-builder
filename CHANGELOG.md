@@ -5,7 +5,19 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.0.3] - 2024-12-19
+## [1.0.4] - 2024-12-19
+
+### Changed
+- **Version bump** - Updated from 1.0.3 to 1.0.4
+- **Build script fix** - Restored original build script configuration
+- **Package maintenance** - Minor version update for package maintenance
+
+### Technical Details
+- Version increment for package maintenance
+- No breaking changes
+- All existing functionality remains the same
+
+## [1.0.3] - 2025-28-09
 
 ### Added
 - **Contributors section** - Added contributors array to package.json
@@ -70,12 +82,29 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 | Version | Date | Key Changes |
 |---------|------|-------------|
-| 1.0.3 | 2024-12-19 | Enhanced package metadata, funding support, platform compatibility |
+| 1.0.4 | 2024-12-19 | Version bump, build script fix, package maintenance |
+| 1.0.3 | 2025-28-09 | Enhanced package metadata, funding support, platform compatibility |
 | 1.0.2 | Previous | Package structure improvements |
 | 1.0.1 | Previous | Core functionality additions |
 | 1.0.0 | Initial | First stable release |
 
 ## Migration Guide
+
+### From 1.0.3 to 1.0.4
+
+No breaking changes. This is a maintenance release.
+
+**What's New:**
+- Version bump for package maintenance
+- Build script configuration restored
+- Minor package updates
+
+**Installation:**
+```bash
+npm install @prathammahajan/sequelize-query-builder@1.0.4
+```
+
+**No code changes required** - all existing functionality remains the same.
 
 ### From 1.0.2 to 1.0.3
 

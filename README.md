@@ -2,9 +2,15 @@
 
 **Powerful, type-safe query builder for Sequelize with pagination, filtering, sorting, and performance monitoring.**
 
+> **SEO Keywords**: Advanced Sequelize query builder, TypeScript ORM, database pagination, SQL filtering, query optimization, performance monitoring, Node.js database layer, enterprise-ready ORM, scalable database queries, production-ready query builder
+
 [![npm version](https://badge.fury.io/js/@prathammahajan%2Fsequelize-query-builder.svg)](https://badge.fury.io/js/@prathammahajan%2Fsequelize-query-builder)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue.svg)](https://www.typescriptlang.org/)
+
+[![GitHub stars](https://img.shields.io/github/stars/prathammahajan13/sequelize-query-builder.svg?style=social&label=Star)](https://github.com/prathammahajan13/sequelize-query-builder)
+[![GitHub forks](https://img.shields.io/github/forks/prathammahajan13/sequelize-query-builder.svg?style=social&label=Fork)](https://github.com/prathammahajan13/sequelize-query-builder/fork)
+[![GitHub watchers](https://img.shields.io/github/watchers/prathammahajan13/sequelize-query-builder.svg?style=social&label=Watch)](https://github.com/prathammahajan13/sequelize-query-builder)
 
 ## ✨ Features
 
@@ -15,6 +21,18 @@
 - ⚡ **Performance Monitoring** - Built-in query performance tracking
 - 🛡️ **Type Safety** - Full TypeScript support
 - 🎯 **Error Handling** - Custom error classes for better debugging
+
+## 🎯 Why Choose This Query Builder?
+
+**Perfect for developers who need:**
+- **Enterprise-grade database operations** with advanced query building capabilities
+- **TypeScript-first development** with full type safety and IntelliSense support
+- **Performance optimization** with built-in monitoring and caching
+- **Scalable architecture** for large-scale applications
+- **Production-ready solutions** with comprehensive error handling
+- **Developer-friendly APIs** with intuitive method chaining
+- **Extensible middleware system** for custom functionality
+- **Cross-database compatibility** supporting MySQL, PostgreSQL, SQLite, and MariaDB
 
 ## 📦 Installation
 
@@ -221,6 +239,22 @@ const userBuilder = createQueryBuilder(User, {
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🚀 Use Cases & Applications
+
+**Ideal for:**
+- **E-commerce platforms** requiring complex product filtering and pagination
+- **Content management systems** with advanced search and sorting capabilities
+- **Analytics dashboards** needing efficient data aggregation and reporting
+- **API development** with RESTful endpoints requiring flexible querying
+- **Microservices architecture** with database abstraction layers
+- **Real-time applications** requiring optimized database performance
+- **Enterprise software** with complex business logic and data relationships
+- **Startup MVPs** needing rapid development with production-ready database operations
+
+## 🔍 SEO & Discoverability
+
+**Search Terms**: Sequelize query builder, TypeScript ORM, Node.js database layer, advanced SQL queries, database pagination, query optimization, performance monitoring, enterprise ORM, scalable database operations, production-ready query builder, MySQL query builder, PostgreSQL query builder, database abstraction layer, repository pattern implementation, data access layer, query performance optimization, database middleware, SQL query optimization, TypeScript database library, Node.js ORM extension
 
 ## 🙏 Support
 
